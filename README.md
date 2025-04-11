@@ -5,6 +5,9 @@
 <p align="left">Welcome! My name is Valter and I'm a Web Developer. I'm currently studying to become a Fullstack Developer while working on projects.</p>
 
 ###
+<p align="left">Checkout my portfolio for more info about me and my projects</p> <a href="https://valterlidesjo.se/" target="_blank"> </a>
+
+###
 
 <h2 align="left">About me</h2>
 
