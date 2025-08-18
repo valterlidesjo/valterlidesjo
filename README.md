@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm currently working on a project for a luxurios getaway hotell and restaurant, you can see it on my page under Sund Nergarden🎯<br><br>I'm also finishing up a stock app project called Silly Stocks with three co-workers🎯<br><br>Contact me on LinkedIn with ideas or business proposals.</p>
+<p align="left">I'm currently working on my first website for a customer, it's a website for a hotell. You can see it under vasteras🎯<br><br>I'm also working on learning next and firebase since these are techniques I will be using on my internship at Done Services. I'm currently building a social media plattform called PicShare🎯<br><br>Contact me on LinkedIn with ideas or business proposals.</p>
 
 ###
 
