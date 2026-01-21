@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome! My name is Valter and I'm a Web Developer. I'm currently studying to become a Fullstack Developer while working on projects.</p>
+<p align="left">Welcome! My name is Valter and I'm a Web Developer. I'm currently finishing my studies to become a Fullstack Developer while working on Done Services.</p>
 
 ###
 <p align="left">Checkout my portfolio for more info about me and my projects</p> 
